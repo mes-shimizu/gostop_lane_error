@@ -90,7 +90,7 @@
 }
 .signal:hover > .no_sound_text,
 .signal:active > .no_sound_text{
-	color:#e7ffe8;
+	color:#ffe3e3;
 }
 .signal:hover > img.flicker,
 .signal:active > img.flicker{/*フリック時の○マーク*/
@@ -98,12 +98,12 @@
 }
 .signal:hover > .ok_lane,
 .signal:active > .ok_lane{
-	color:#e7ffe8;
+	color:#ffe3e3;
 }
 .signal:hover > .attention,
 .signal:active > .attention{
-	color: #21d925;
-	background-color:#e7ffe8;
+	color: #ff0000;
+	background-color:#ffe3e3;
 }
 /*ここまでフリック時の挙動*/
 .blank{
